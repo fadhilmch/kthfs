@@ -1,0 +1,2 @@
+exc1:package2
+-DCATKIN_DEVEL_PREFIX=/home/fadhilmch/kthfsdv/devel -DCMAKE_INSTALL_PREFIX=/home/fadhilmch/kthfsdv/install -G Unix Makefiles

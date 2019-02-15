@@ -1,0 +1,8 @@
+prefix=/home/fadhilmch/kthfsdv/install
+
+Name: exc1
+Description: Description of exc1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fadhilmch/kthfsdv/install/lib 
+Requires: 

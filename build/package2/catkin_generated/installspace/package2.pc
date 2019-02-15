@@ -1,0 +1,8 @@
+prefix=/home/fadhilmch/kthfsdv/install
+
+Name: package2
+Description: Description of package2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fadhilmch/kthfsdv/install/lib 
+Requires: 
